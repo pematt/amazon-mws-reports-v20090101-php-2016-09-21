@@ -1,6 +1,6 @@
 {
   "name": "amazon-mws-reports",
-  "version": "2009.1.1",
+  "version": "2009.1.1-2",
   "description": "",
   "main": "src/MarketplaceWebService/Client.php",
   "scripts": {
