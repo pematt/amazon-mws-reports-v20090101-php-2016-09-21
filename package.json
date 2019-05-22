@@ -1,0 +1,19 @@
+{
+  "name": "amazon-mws-reports-v20090101-php-2016-09-21",
+  "version": "2009.1.1",
+  "description": "",
+  "main": "src/MarketplaceWebService/Client.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pematt/hej.git"
+  },
+  "author": "Amazon Technologies, Inc.",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/pematt/hej/issues"
+  },
+  "homepage": "https://github.com/pematt/hej#readme"
+}
