@@ -1,10 +1,10 @@
 {
   "name": "amazon-mws-reports",
-  "version": "2009.1.1-2",
-  "description": "",
+  "version": "2016.9.21",
+  "description": "Amazon MWS Reports php client library. API version 2009-01-01 updated 2016-09-21.",
   "main": "src/MarketplaceWebService/Client.php",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"No tests specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,5 @@
   "bugs": {
     "url": "https://github.com/pematt/amazon-mws-reports-v20090101-php-2016-09-21"
   },
-  "homepage": "https://github.com/pematt/hej#readme"
+  "homepage": "https://github.com/pematt/amazon-mws-reports-v20090101-php-2016-09-21"
 }
